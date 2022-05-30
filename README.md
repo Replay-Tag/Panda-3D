@@ -3,3 +3,4 @@
 # Panda-3D
 Panda 3D Is A Gorilla Tag Like Game but its about panda's On SideQuest Now
 https://sidequestvr.com/app/8236/panda-3d
+not going to update the game here from now on im going to update it on sidequest
