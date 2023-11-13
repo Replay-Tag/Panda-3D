@@ -4,3 +4,4 @@
 Panda 3D Is A Gorilla Tag Like Game but its about panda's On SideQuest Now
 https://sidequestvr.com/app/8236/panda-3d
 Im Going To Update The Game From Here And SideQuest
+When the game releases there will be promised support for the next year after that multiplayer will shut down and there wont be anymore update's 
