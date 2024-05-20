@@ -9,3 +9,5 @@ Panda 3D has been removed from SideQuest indefinitely due to SideQuest unapprovi
 Panda 3D will release a development history page showcasing and discussing old builds, rare builds, and the game's history.
 
 Note: Since it was removed off of sidequest by those admins the sidequest link here will just say "Nothing Found."
+
+Note 2: I've Added the apk file of the fall update to this page since it was undownloadable due to sidequest page being gone (APK is the quest version of the game)
