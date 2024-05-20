@@ -7,3 +7,5 @@ https://sidequestvr.com/app/8236/panda-3d
 Panda 3D has been removed from SideQuest indefinitely due to SideQuest unapproving it, even though it was approved and released on SideQuest over two years ago.
 
 Panda 3D will release a development history page showcasing and discussing old builds, rare builds, and the game's history.
+
+Note: Since it was removed off of sidequest by those admins the sidequest link here will just say "Nothing Found."
