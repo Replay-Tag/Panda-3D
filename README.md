@@ -3,3 +3,7 @@
 # Panda-3D
 Panda 3D Is A Gorilla Tag Like Game but its about panda's On SideQuest Now
 https://sidequestvr.com/app/8236/panda-3d
+
+Panda 3D has been removed from SideQuest indefinitely due to SideQuest unapproving it, even though it was approved and released on SideQuest over two years ago.
+
+Panda 3D will release a development history page showcasing and discussing old builds, rare builds, and the game's history.
